@@ -2,6 +2,6 @@ package com.mygate.gitdemo;
 
 public class MyGateRepoGit{
 	public static void main(String args[]) {
-		System.out.println("this is MyGateRepoGit class 5th line");
+		System.out.println("this is MyGateRepoGit class 5th line merchant-system branch");
 	}
 }
